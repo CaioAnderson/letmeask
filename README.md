@@ -33,8 +33,8 @@ Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/rocketseat-education/nlw-06-reactjs
-$ cd nlw-06-reactjs
+$ git clone https://github.com/CaioAnderson/letmeask.git
+$ cd letmeask
 ```
 
 Para iniciá-lo, siga os passos abaixo:
